@@ -1,0 +1,23 @@
+# KiCad local user workspace preferences and lock files
+*.kicad_prl
+*.lck
+~*.lck
+*.tmp
+
+# KiCad backup and autosave files
+*-bak
+*-bak*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bck
+_autosave-*
+
+# Local editor history
+.history/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
